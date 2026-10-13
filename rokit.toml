@@ -1,0 +1,3 @@
+# Toolchain สำหรับ project นี้ — รัน `rokit install` เพื่อติดตั้ง
+[tools]
+rojo = "rojo-rbx/rojo@7.4.4"
